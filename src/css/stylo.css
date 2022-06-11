@@ -87,3 +87,20 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  /* when screen's smaller than 512px */
+  @media (max-width: 512px) {
+    #principles span {
+      font-size: 4rem;
+    }
+    #weare h2 {
+      font-size: 5rem;
+    }
+  }
+
+  /* when screen's smaller than 840px */
+  @media (max-width: 840px) {
+    #principles h1 {
+      font-size: 6rem;
+    }
+  }
