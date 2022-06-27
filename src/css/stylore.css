@@ -48,6 +48,7 @@ main{
     width: 100%;
     padding: 10px 20px;
     display: flex;
+    
     justify-content: center;
     backdrop-filter: blur(10px);
     background-color: rgba(0, 153, 233, 0.5);
