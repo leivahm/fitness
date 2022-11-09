@@ -67,6 +67,8 @@ header {
   font-size: 2rem;
 }
 
+
+/* :::::::: NOSOTROS :::::::: */
 #weare h2 {
   font-size: 5rem;
   font-weight: 800;
@@ -92,7 +94,7 @@ header {
   -webkit-text-fill-color: transparent;
 }
 
-#subasta h2 {
+/* #subasta h2 {
   font-size: 5rem;
   font-weight: 800;
   letter-spacing: -.05em;
@@ -115,7 +117,7 @@ header {
   inset: 0;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
+} */
 
 /* ==== FONDO CONTACTOS === */
 
